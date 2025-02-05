@@ -35,6 +35,38 @@ Engaging features like Lottie animations enhance the visual appeal, while React 
 🔵 Firebase for Authentication. <br>
 🔵 MongoDB for Data Management <br>
 
+Here’s a section you can use in your GitHub `README.md` file to describe the technologies used in your project:  
+
+---
+
+## 🛠️ Technologies Used  
+
+This project is built with the following technologies:  
+
+### **Frontend**  
+- ⚛️ **React** (`18.3.1`) – JavaScript library for building user interfaces  
+- 🔄 **React Router DOM** (`7.0.2`) – Client-side routing for React applications  
+- 🎭 **Lottie React** (`2.4.0`) – Animations for React apps  
+- 🎩 **React Helmet** (`6.1.0`) – Managing document head  
+- 🛠️ **React Tooltip** (`5.28.0`) – Custom tooltips for React  
+- 🍬 **SweetAlert2** (`11.14.5`) – Stylish alert popups  
+
+### **Styling**  
+- 🎨 **Tailwind CSS** (`3.4.15`) – Utility-first CSS framework  
+- 🌼 **DaisyUI** (`4.12.14`) – Component library for Tailwind  
+
+### **Backend & Authentication**  
+- 🔥 **Firebase** (`11.0.2`) – Authentication and database services  
+
+### **Development & Tooling**  
+- ⚡ **Vite** (`6.0.1`) – Fast build tool for modern web apps  
+- ✅ **ESLint** (`9.15.0`) – JavaScript linter for code quality  
+- 🎨 **PostCSS** (`8.4.49`) – CSS transformations with plugins  
+- ✨ **Autoprefixer** (`10.4.20`) – Automatic CSS vendor prefixing  
+
+---
+
+
 ## React Concepts Used in ProGear Sports
 
 **Component-Based Architecture:** The entire project is structured with reusable, modular components such as Navbar,ProductCard, and Footer. This modular approach makes it easy to manage, extend, and maintain the codebase as the project grows.<br>
