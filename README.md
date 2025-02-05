@@ -35,10 +35,6 @@ Engaging features like Lottie animations enhance the visual appeal, while React 
 🔵 Firebase for Authentication. <br>
 🔵 MongoDB for Data Management <br>
 
-Here’s a section you can use in your GitHub `README.md` file to describe the technologies used in your project:  
-
----
-
 ## 🛠️ Technologies Used  
 
 This project is built with the following technologies:  
@@ -63,8 +59,6 @@ This project is built with the following technologies:
 - ✅ **ESLint** (`9.15.0`) – JavaScript linter for code quality  
 - 🎨 **PostCSS** (`8.4.49`) – CSS transformations with plugins  
 - ✨ **Autoprefixer** (`10.4.20`) – Automatic CSS vendor prefixing  
-
----
 
 
 ## React Concepts Used in ProGear Sports
